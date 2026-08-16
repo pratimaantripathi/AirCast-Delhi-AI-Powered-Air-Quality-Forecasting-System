@@ -1,5 +1,4 @@
 # AirCast-Delhi-AI-Powered-Air-Quality-Forecasting-System
-# AirCast Delhi 
 
 AirCast Delhi is a machine learning system that forecasts **ground-level O₃ (Ozone) and NO₂ (Nitrogen Dioxide) concentrations** for **7 monitoring sites across Delhi, up to 24 hours in advance**, using satellite observations, reanalysis data, historical pollution data, and machine learning.
 
