@@ -1,11 +1,11 @@
 # AirCast-Delhi-AI-Powered-Air-Quality-Forecasting-System
-# AirCast Delhi 🌫️
+# AirCast Delhi 
 
 AirCast Delhi is a machine learning system that forecasts **ground-level O₃ (Ozone) and NO₂ (Nitrogen Dioxide) concentrations** for **7 monitoring sites across Delhi, up to 24 hours in advance**, using satellite observations, reanalysis data, historical pollution data, and machine learning.
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Short-term **24-hour hourly forecasting** of ground-level O₃ and NO₂ using:
 
@@ -18,7 +18,7 @@ Accurate air-quality forecasts can enable **early warnings, better environmental
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **24-hour hourly O₃ and NO₂ predictions**
 * **Site-specific forecasts** for 7 Delhi monitoring locations
@@ -31,7 +31,7 @@ Accurate air-quality forecasts can enable **early warnings, better environmental
 
 ---
 
-## 🧠 Machine Learning Approach
+##  Machine Learning Approach
 
 The project uses an ensemble of:
 
@@ -44,7 +44,7 @@ The final predictions are generated using a **weighted ensemble of XGBoost and L
 
 ---
 
-## 📊 Dashboard
+##  Dashboard
 
 The project includes an interactive **Streamlit dashboard** that allows users to explore:
 
@@ -62,7 +62,7 @@ streamlit run app.py
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 **Python | XGBoost | LightGBM | Pandas | NumPy | Feature Engineering | EDA | Data Preprocessing | Streamlit | GitHub**
 
